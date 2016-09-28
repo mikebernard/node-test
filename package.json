@@ -1,0 +1,22 @@
+{
+  "name": "nCinoRabbit",
+  "version": "1.0.3",
+  "description": "An automation tool for setting up a developer org.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mikebernard/node-test.git"
+  },
+  "keywords": [
+    "rabbit"
+  ],
+  "author": "Mike Bernard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikebernard/node-test/issues"
+  },
+  "homepage": "https://github.com/mikebernard/node-test#readme"
+}
