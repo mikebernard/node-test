@@ -1,6 +1,6 @@
 {
   "name": "nCinoRabbit",
-  "version": "1.0.3",
+  "version": "1.0.15",
   "description": "An automation tool for setting up a developer org.",
   "main": "index.js",
   "scripts": {
